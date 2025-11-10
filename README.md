@@ -1,6 +1,6 @@
 AUTO1 Inventory Performance Project
 
-This folder contains my full analysis and dashboard for the AUTO1 inventory management case study.  
+This folder contains full analysis and dashboard for the AUTO1 inventory management case study.  
 It includes the data preparation, SQL logic, Python exploration and the final Tableau dashboard.
 
 Main Files
