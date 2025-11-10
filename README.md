@@ -1,0 +1,2 @@
+# AUTO1_Business_Analyst_Case_Study
+AUTO1 Inventory Performance Insights
