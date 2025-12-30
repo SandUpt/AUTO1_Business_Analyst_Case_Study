@@ -16,7 +16,7 @@ Folders
 - images/ - all the charts and screenshots used in the analysis and summary visuals.  
   (Includes things like chart_days_to_sell.png, chart_margin_by_manufacturer_top10.png, etc.)
 
-- Refrences_files_provided_by_AUTO1/ — original case materials and provided data for context.  
+- Refrences_files_provided_by_AUTO1/ - original case materials and provided data for context.  
   (Includes the PDF and source Excel file.)
 
 How to View
